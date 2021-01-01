@@ -9,5 +9,5 @@
 
 
 ### Monthly To Do List
-- [2020.12](./202012.md)
-- [2020.01](./202001.md)
+- [2020.12](https://github.com/Kim-SuBin/TODO/blob/main/202012.md)
+- [2020.01](https://github.com/Kim-SuBin/TODO/blob/main/202101.md)

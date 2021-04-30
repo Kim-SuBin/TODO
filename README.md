@@ -6,7 +6,7 @@
 <br/>
 
 ## 🚀 How To
-1. 매일 밤 오늘 To Do List 체크 및 내일 To Do List 작성
+1. 오늘 To Do List 체크 및 내일 To Do List 작성
 2. 하루 6시간 이상 공부하기 (휴일 제외)
 
 <br/>
@@ -17,6 +17,7 @@
 - [2021.02](https://github.com/Kim-SuBin/TODO/blob/main/202102.md)
 - [2021.03](https://github.com/Kim-SuBin/TODO/blob/main/202103.md)
 - [2021.04](https://github.com/Kim-SuBin/TODO/blob/main/202104.md)
+- [2021.05](https://github.com/Kim-SuBin/TODO/blob/main/202105.md)
 
 <br/>
 
